@@ -1,0 +1,479 @@
+[
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6415",
+    "menutitle": "\u300a\u70f9\u8c03\u5de5\u827a\u5b66\u300b\u5bfc\u5b66",
+    "menudate": "(00:02:52)",
+    "total": 172
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6416",
+    "menutitle": "\u70f9\u8c03\u5de5\u827a\u67b6\u6784",
+    "menudate": "(00:13:43)",
+    "total": 823
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6417",
+    "menutitle": "\u539f\u6599\u9009\u62e9\u4e0e\u52a0\u5de5",
+    "menudate": "(00:09:15)",
+    "total": 555
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6418",
+    "menutitle": "\u5e72\u8d27\u6da8\u53d1\u5de5\u827a",
+    "menudate": "(00:09:15)",
+    "total": 555
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6419",
+    "menutitle": "\u5e72\u8d27\u6da8\u53d1",
+    "menudate": "(00:08:43)",
+    "total": 523
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6420",
+    "menutitle": "\u5206\u89e3\u5de5\u827a",
+    "menudate": "(00:10:32)",
+    "total": 632
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6421",
+    "menutitle": "\u539f\u6599\u5206\u6863",
+    "menudate": "(00:06:07)",
+    "total": 367
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6422",
+    "menutitle": "\u4e00\u822c\u5200\u5de5\u5de5\u827a",
+    "menudate": "(00:07:33)",
+    "total": 453
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6423",
+    "menutitle": "\u5e73\u5200\u6cd5",
+    "menudate": "(00:02:58)",
+    "total": 178
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6424",
+    "menutitle": "\u659c\u5200\u6cd5",
+    "menudate": "(00:01:25)",
+    "total": 85
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6425",
+    "menutitle": "\u76f4\u5200\u6cd5",
+    "menudate": "(00:06:20)",
+    "total": 380
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6426",
+    "menutitle": "\u82b1\u5200\u5de5\u827a",
+    "menudate": "(00:05:55)",
+    "total": 355
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6427",
+    "menutitle": "\u525e\u82b1\u5200\u5de5\u827a",
+    "menudate": "(00:04:55)",
+    "total": 295
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6428",
+    "menutitle": "\u6599\u5f62\u77e5\u8bc6",
+    "menudate": "(00:09:51)",
+    "total": 591
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6429",
+    "menutitle": "\u6599\u5f62\u53ca\u5176\u8fd0\u7528",
+    "menudate": "(00:03:27)",
+    "total": 207
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6430",
+    "menutitle": "\u4e0a\u6d46\u5de5\u827a1",
+    "menudate": "(00:12:58)",
+    "total": 778
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6431",
+    "menutitle": "\u4e0a\u6d46\u5de5\u827a2",
+    "menudate": "(00:06:27)",
+    "total": 387
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6432",
+    "menutitle": "\u8c03\u7cca\u5de5\u827a",
+    "menudate": "(00:07:42)",
+    "total": 462
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6433",
+    "menutitle": "\u62cd\u7c89\u5de5\u827a",
+    "menudate": "(00:04:02)",
+    "total": 242
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6434",
+    "menutitle": "\u6302\u7cca\u4e0e\u62cd\u7c89",
+    "menudate": "(00:07:40)",
+    "total": 460
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6435",
+    "menutitle": "\u52fe\u82a1\u5de5\u827a",
+    "menudate": "(00:05:44)",
+    "total": 344
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6436",
+    "menutitle": "\u7ec4\u914d\u5de5\u827a1",
+    "menudate": "(00:13:10)",
+    "total": 790
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6437",
+    "menutitle": "\u7ec4\u914d\u5de5\u827a2",
+    "menudate": "(00:09:03)",
+    "total": 543
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6438",
+    "menutitle": "\u7ec4\u914d\u5de5\u827a3",
+    "menudate": "(00:01:13)",
+    "total": 73
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6439",
+    "menutitle": "\u84c9\u80f6\u5de5\u827a1",
+    "menudate": "(00:06:25)",
+    "total": 385
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6440",
+    "menutitle": "\u84c9\u80f6\u5de5\u827a2",
+    "menudate": "(00:02:08)",
+    "total": 128
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6441",
+    "menutitle": "\u8c03\u5473\u5de5\u827a1",
+    "menudate": "(00:10:49)",
+    "total": 649
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6442",
+    "menutitle": "\u8c03\u5473\u5de5\u827a2",
+    "menudate": "(00:06:22)",
+    "total": 382
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6443",
+    "menutitle": "\u8c03\u5473\u5de5\u827a3",
+    "menudate": "(00:06:32)",
+    "total": 392
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6444",
+    "menutitle": "\u9884\u8c03\u5473\u5de5\u827a",
+    "menudate": "(00:03:42)",
+    "total": 222
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6445",
+    "menutitle": "\u907f\u98ce\u5858\u6599\u5236\u4f5c",
+    "menudate": "(00:02:37)",
+    "total": 157
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6446",
+    "menutitle": "\u8c49\u6cb9\u6c41\u7684\u71ac\u5236",
+    "menudate": "(00:03:54)",
+    "total": 234
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6447",
+    "menutitle": "\u5236\u719f\u5de5\u827a",
+    "menudate": "(00:09:03)",
+    "total": 543
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6448",
+    "menutitle": "\u5236\u719f\u5de5\u827a\u8f85\u52a9\u624b\u6bb5",
+    "menudate": "(00:11:52)",
+    "total": 712
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6449",
+    "menutitle": "\u5236\u719f\u5de5\u827a\u65b9\u6cd5\u5206\u7c7b",
+    "menudate": "(00:14:54)",
+    "total": 894
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6450",
+    "menutitle": "\u9884\u719f\u52a0\u5de5\uff08\u5b9e\u8df5\uff09",
+    "menudate": "(00:06:36)",
+    "total": 396
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6451",
+    "menutitle": "\u6c34\u5bfc\u70ed\u6280\u6cd51",
+    "menudate": "(00:08:36)",
+    "total": 516
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6452",
+    "menutitle": "\u6c34\u5bfc\u70ed\u6280\u6cd52",
+    "menudate": "(00:08:06)",
+    "total": 486
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6453",
+    "menutitle": "\u6c34\u5bfc\u70ed\u6280\u6cd53",
+    "menudate": "(00:12:16)",
+    "total": 736
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6454",
+    "menutitle": "\u70b8\u7684\u6280\u6cd51",
+    "menudate": "(00:05:15)",
+    "total": 315
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6455",
+    "menutitle": "\u70b8\u7684\u6280\u6cd52",
+    "menudate": "(00:02:57)",
+    "total": 177
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6456",
+    "menutitle": "\u526a\u8d34\u584c\u6280\u6cd5",
+    "menudate": "(00:10:10)",
+    "total": 610
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6457",
+    "menutitle": "\u7178\u7092\u6280\u6cd5",
+    "menudate": "(00:04:32)",
+    "total": 272
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6458",
+    "menutitle": "\u6ed1\u7092\u6280\u6cd5",
+    "menudate": "(00:07:34)",
+    "total": 454
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6459",
+    "menutitle": "\u7206\u7684\u6280\u6cd5",
+    "menudate": "(00:05:03)",
+    "total": 303
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6460",
+    "menutitle": "\u7198\u7684\u6280\u6cd5",
+    "menudate": "(00:07:17)",
+    "total": 437
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6461",
+    "menutitle": "\u84b8\u7684\u6280\u6cd5",
+    "menudate": "(00:04:43)",
+    "total": 283
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6462",
+    "menutitle": "\u71ac\u7cd6\u6280\u6cd5",
+    "menudate": "(00:05:02)",
+    "total": 302
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6463",
+    "menutitle": "\u9189\u7684\u6280\u6cd5",
+    "menudate": "(00:02:48)",
+    "total": 168
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6464",
+    "menutitle": "\u709d\u62cc\u6280\u6cd5",
+    "menudate": "(00:03:37)",
+    "total": 217
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6465",
+    "menutitle": "\u5206\u5b50\u70f9\u996a",
+    "menudate": "(00:07:37)",
+    "total": 457
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6466",
+    "menutitle": "\u88c5\u9970\u5de5\u827a",
+    "menudate": "(00:07:29)",
+    "total": 449
+  },
+  {
+    "dataId": "345",
+    "dataCId": "6415",
+    "title": "\u70f9\u8c03\u5de5\u827a\u5b66",
+    "data_lesson_id": "6467",
+    "menutitle": "\u88c5\u9970",
+    "menudate": "(00:01:47)",
+    "total": 107
+  }
+]
