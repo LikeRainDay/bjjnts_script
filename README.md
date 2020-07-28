@@ -11,7 +11,7 @@
 ## 依赖安装
 
 ```shell script
-sh init/install_depend_on.sh
+ pip install -r requirements.txt
 ```
 
 ## 配置说明
