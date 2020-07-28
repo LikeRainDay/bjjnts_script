@@ -74,7 +74,7 @@ if __name__ == '__main__':
     for file in files:
         if not os.path.isdir(file):
             print("======= start simulation [ {} ] ===========".format(file))
-            f = open(path + "/" + file);
+            f = open(path + "/" + file)
             json_data = json.load(f)
             get_request(str(prefix) + "/idCardVerified")
             for item in json_data:
